@@ -1,8 +1,3 @@
-/*
-    Nom: Mohamed-Farouk El Achek
-    Matricule:  20055590
-*/
-
 import javax.swing.*;
 import javax.swing.table.TableModel;
 import java.awt.*;
