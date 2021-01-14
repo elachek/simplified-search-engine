@@ -1,8 +1,3 @@
-/*
-    Nom: Mohamed-Farouk El Achek
-    Matricule:  20055590
-*/
-
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.*;
