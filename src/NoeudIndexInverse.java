@@ -1,8 +1,3 @@
-/*
-    Nom: Mohamed-Farouk El Achek
-    Matricule:  20055590
-*/
-
 import java.util.ArrayList;
 
 public class NoeudIndexInverse implements Comparable<NoeudIndexInverse> {
